@@ -1,3 +1,5 @@
+# Day 0: Hello, World
+
 **[Click here to view the problem description](https://www.hackerrank.com/challenges/30-hello-world/problem)**
 
 @nishipalrana
