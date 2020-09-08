@@ -1,14 +1,15 @@
-#**[Click here to view the problem description](https://www.hackerrank.com/challenges/30-hello-world/problem)**
+**[Click here to view the problem description](https://www.hackerrank.com/challenges/30-hello-world/problem)**
 
 @nishipalrana
 
-
+```
 
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
+
 public class Solution {
 	public static void main(String[] args) {
         // Create a Scanner object to read input from stdin.
@@ -27,3 +28,4 @@ public class Solution {
 	    // TODO: Write a line of code here that prints the contents of inputString to stdout.
 	}
 }
+```
